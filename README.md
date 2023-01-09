@@ -25,3 +25,4 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Screenshots of the application
 ![Image1](https://github.com/WinnieThomas/E-Commerce-Back-End/blob/main/Images/Ecommerce1.png?raw=true)
+![Image2](https://github.com/WinnieThomas/E-Commerce-Back-End/blob/main/Images/Ecommerce2.png?raw=true)
