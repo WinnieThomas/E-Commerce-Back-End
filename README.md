@@ -26,3 +26,9 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Screenshots of the application
 ![Image1](https://github.com/WinnieThomas/E-Commerce-Back-End/blob/main/Images/Ecommerce1.png?raw=true)
 ![Image2](https://github.com/WinnieThomas/E-Commerce-Back-End/blob/main/Images/Ecommerce2.png?raw=true)
+![Image](https://github.com/WinnieThomas/E-Commerce-Back-End/blob/main/Images/Ecommerce3.png?raw=true)
+
+## Walthrough of the application
+![VedioWalkthrough](https://user-images.githubusercontent.com/111534031/211430357-45dd7bd7-9415-492b-94f1-418ff76f756a.mp4)
+
+
